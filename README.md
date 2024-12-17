@@ -25,7 +25,7 @@ Start the backend server:
 ```python 
 python main.py
 ```
-The backend will be accessible at http://127.0.0.1:5000/cpu-usage/.
+The backend will be available at http://127.0.0.1:5000/cpu-usage/.
 #### Run Frontend
 * Navigate to the client directory.
 * Install dependencies: ```npm install```
