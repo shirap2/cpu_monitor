@@ -1,5 +1,5 @@
 # AWS CPU Monitor
-This project implements a simple AWS CPU usage monitor. It fetches CPU usage metrics for an AWS instance and displays the usage over time in a chart. 
+This project implements an AWS CPU usage monitor. It fetches CPU usage metrics for an AWS instance and displays the usage over time in a chart. 
 The input is an IP address, interval period between samples, start and end time for the monitor. 
 
 
